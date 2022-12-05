@@ -1,5 +1,167 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "3d6Wi_7-v0o",
+            "name": "Liszt - Concert Paraphrase on Rigoletto, S. 434 (After Verdi Opera)-3d6Wi_7-v0o.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/Liszt - Concert Paraphrase on Rigoletto, S. 434 (After Verdi Opera)-3d6Wi_7-v0o.mp4",
+            "size": 4.7439219999999995,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Liszt - Concert Paraphrase on Rigoletto, S. 434 (After Verdi Opera)-3d6Wi_7-v0o.mp4?raw=true"
+        },
+        {
+            "id": "tKY_ZGtazpE",
+            "name": "Twelve Waltzes and Coda - No. 11-tKY_ZGtazpE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/Twelve Waltzes and Coda - No. 11-tKY_ZGtazpE.mp4",
+            "size": 0.618868,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Twelve Waltzes and Coda - No. 11-tKY_ZGtazpE.mp4?raw=true"
+        },
+        {
+            "id": "oc50wHexbwg",
+            "name": "Khruangbin - Time (You and I) (Official Video)-oc50wHexbwg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/Khruangbin - Time (You and I) (Official Video)-oc50wHexbwg.mp4",
+            "size": 16.218156999999998,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Khruangbin - Time (You and I) (Official Video)-oc50wHexbwg.mp4?raw=true"
+        },
+        {
+            "id": "BDpMY2zASzU",
+            "name": "Liszt - Die Legende von der Heiligen Elisabeth _ 1. Ankunft der Elisabeth auf Wartburg -...-BDpMY2zASzU.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/Liszt - Die Legende von der Heiligen Elisabeth _ 1. Ankunft der Elisabeth auf Wartburg -...-BDpMY2zASzU.mp4",
+            "size": 2.323001,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Liszt - Die Legende von der Heiligen Elisabeth _ 1. Ankunft der Elisabeth auf Wartburg -...-BDpMY2zASzU.mp4?raw=true"
+        },
+        {
+            "id": "6wYdv2_7ixs",
+            "name": "Liszt - Hamlet, Symphonic Poem No. 10, S.104-6wYdv2_7ixs.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/Liszt - Hamlet, Symphonic Poem No. 10, S.104-6wYdv2_7ixs.mp4",
+            "size": 8.979192,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Liszt - Hamlet, Symphonic Poem No. 10, S.104-6wYdv2_7ixs.mp4?raw=true"
+        },
+        {
+            "id": "itByiAwoOLc",
+            "name": "Liszt - A Faust Symphony, S.108 - Final Chorus 'Alles Verg\u00e4ngliche ist nur ein Gleichnis' (Live)-itByiAwoOLc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/Liszt - A Faust Symphony, S.108 - Final Chorus 'Alles Verg\u00e4ngliche ist nur ein Gleichnis' (Live)-itByiAwoOLc.mp4",
+            "size": 4.443855,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Liszt - A Faust Symphony, S.108 - Final Chorus 'Alles Verg\u00e4ngliche ist nur ein Gleichnis' (Live)-itByiAwoOLc.mp4?raw=true"
+        },
+        {
+            "id": "eiiKexuKUMo",
+            "name": "Liszt - Lebe Wohl!, S.563, No. 1 (after Schubert, D.578)-eiiKexuKUMo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/Liszt - Lebe Wohl!, S.563, No. 1 (after Schubert, D.578)-eiiKexuKUMo.mp4",
+            "size": 3.0224729999999997,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Liszt - Lebe Wohl!, S.563, No. 1 (after Schubert, D.578)-eiiKexuKUMo.mp4?raw=true"
+        },
+        {
+            "id": "X4p4eKtDEHI",
+            "name": "Liszt - 2 Etudes de Concert, S. 145 - No. 2 Gnomenreigen-X4p4eKtDEHI.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/Liszt - 2 Etudes de Concert, S. 145 - No. 2 Gnomenreigen-X4p4eKtDEHI.mp4",
+            "size": 2.028568,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Liszt - 2 Etudes de Concert, S. 145 - No. 2 Gnomenreigen-X4p4eKtDEHI.mp4?raw=true"
+        },
+        {
+            "id": "eo7XXBeplcY",
+            "name": "Liszt - Piano Concerto No. 2 in A Major, S. 125 - III. Marziale un poco meno allegro-eo7XXBeplcY.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/Liszt - Piano Concerto No. 2 in A Major, S. 125 - III. Marziale un poco meno allegro-eo7XXBeplcY.mp4",
+            "size": 2.84793,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Liszt - Piano Concerto No. 2 in A Major, S. 125 - III. Marziale un poco meno allegro-eo7XXBeplcY.mp4?raw=true"
+        },
+        {
+            "id": "U_HFe_-vwmc",
+            "name": "Liszt - Venezia e Napoli, S. 162 - Suppl\u00e9ment aux Ann\u00e9es de p\u00e8lerinage II - III. Tarantella-U_HFe_-vwmc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/Liszt - Venezia e Napoli, S. 162 - Suppl\u00e9ment aux Ann\u00e9es de p\u00e8lerinage II - III. Tarantella-U_HFe_-vwmc.mp4",
+            "size": 6.05683,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Liszt - Venezia e Napoli, S. 162 - Suppl\u00e9ment aux Ann\u00e9es de p\u00e8lerinage II - III. Tarantella-U_HFe_-vwmc.mp4?raw=true"
+        },
+        {
+            "id": "RR1gLy6AJ_0",
+            "name": "Keyboard Sonata No. 31 in A-Flat Major, Hob. XVI, 46 - III. Finale - Presto-RR1gLy6AJ_0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/Keyboard Sonata No. 31 in A-Flat Major, Hob. XVI, 46 - III. Finale - Presto-RR1gLy6AJ_0.mp4",
+            "size": 2.786927,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Keyboard Sonata No. 31 in A-Flat Major, Hob. XVI, 46 - III. Finale - Presto-RR1gLy6AJ_0.mp4?raw=true"
+        },
+        {
+            "id": "p-m35l5Vtxs",
+            "name": "08 - Anri - Kanashimi Ha Mado No Mukou-p-m35l5Vtxs.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/08 - Anri - Kanashimi Ha Mado No Mukou-p-m35l5Vtxs.mp4",
+            "size": 3.72422,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/08 - Anri - Kanashimi Ha Mado No Mukou-p-m35l5Vtxs.mp4?raw=true"
+        },
+        {
+            "id": "jjaUElCp78k",
+            "name": "Liszt - Drei Lieder aus 'Wilhelm Tell' S.292 - 2. Der Hirt-jjaUElCp78k.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/Liszt - Drei Lieder aus 'Wilhelm Tell' S.292 - 2. Der Hirt-jjaUElCp78k.mp4",
+            "size": 2.413558,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Liszt - Drei Lieder aus 'Wilhelm Tell' S.292 - 2. Der Hirt-jjaUElCp78k.mp4?raw=true"
+        },
+        {
+            "id": "QUDgNhOmM1A",
+            "name": "Aleko (arr. for piano)  - Dance of the Young Gypsy Maidens from Aleko-QUDgNhOmM1A.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/Aleko (arr. for piano)  - Dance of the Young Gypsy Maidens from Aleko-QUDgNhOmM1A.mp4",
+            "size": 5.418195,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Aleko (arr. for piano)  - Dance of the Young Gypsy Maidens from Aleko-QUDgNhOmM1A.mp4?raw=true"
+        },
+        {
+            "id": "j4opxfesU1U",
+            "name": "Well You Needn't-j4opxfesU1U.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/Well You Needn't-j4opxfesU1U.mp4",
+            "size": 8.727921,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Well You Needn't-j4opxfesU1U.mp4?raw=true"
+        },
+        {
+            "id": "mc5YOe4xSB8",
+            "name": "Liszt - Einst, S.332-mc5YOe4xSB8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/Liszt - Einst, S.332-mc5YOe4xSB8.mp4",
+            "size": 0.420444,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Liszt - Einst, S.332-mc5YOe4xSB8.mp4?raw=true"
+        },
+        {
+            "id": "1Rc38t1_380",
+            "name": "Liszt - Ann\u00e9es de p\u00e8lerinage II, S. 161 - IV. Sonetto 47 del Petrarca-1Rc38t1_380.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/Liszt - Ann\u00e9es de p\u00e8lerinage II, S. 161 - IV. Sonetto 47 del Petrarca-1Rc38t1_380.mp4",
+            "size": 3.419527,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Liszt - Ann\u00e9es de p\u00e8lerinage II, S. 161 - IV. Sonetto 47 del Petrarca-1Rc38t1_380.mp4?raw=true"
+        },
+        {
+            "id": "ZImg5EZe9lg",
+            "name": "Liszt - Ann\u00e9es de p\u00e8lerinage I, S. 160 - V. Orage-ZImg5EZe9lg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/Liszt - Ann\u00e9es de p\u00e8lerinage I, S. 160 - V. Orage-ZImg5EZe9lg.mp4",
+            "size": 2.5766869999999997,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Liszt - Ann\u00e9es de p\u00e8lerinage I, S. 160 - V. Orage-ZImg5EZe9lg.mp4?raw=true"
+        },
+        {
+            "id": "dNTvw6G2LoI",
+            "name": "Ravel - Menuet antique - for Orchestra - Maestoso-dNTvw6G2LoI.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/Ravel - Menuet antique - for Orchestra - Maestoso-dNTvw6G2LoI.mp4",
+            "size": 5.288870999999999,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Ravel - Menuet antique - for Orchestra - Maestoso-dNTvw6G2LoI.mp4?raw=true"
+        },
+        {
+            "id": "wvkQmnSwtFU",
+            "name": "I've Got My Eyes on You-wvkQmnSwtFU.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/I've Got My Eyes on You-wvkQmnSwtFU.mp4",
+            "size": 4.395836,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/I've Got My Eyes on You-wvkQmnSwtFU.mp4?raw=true"
+        },
+        {
+            "id": "e7ckv1-U52U",
+            "name": "Stabbing to Purge Dissimulation-e7ckv1-U52U.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/Stabbing to Purge Dissimulation-e7ckv1-U52U.mp4",
+            "size": 3.910269,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Stabbing to Purge Dissimulation-e7ckv1-U52U.mp4?raw=true"
+        },
+        {
+            "id": "mBysZthr-Mo",
+            "name": "BLUE CURACAO-mBysZthr-Mo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/BLUE CURACAO-mBysZthr-Mo.mp4",
+            "size": 6.721191999999999,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/BLUE CURACAO-mBysZthr-Mo.mp4?raw=true"
+        },
+        {
+            "id": "jJ-QH7OoIHM",
+            "name": "Liszt - Hungarian Rhapsody No. 4 in E Flat, S. 244-jJ-QH7OoIHM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w3/videos/Liszt - Hungarian Rhapsody No. 4 in E Flat, S. 244-jJ-QH7OoIHM.mp4",
+            "size": 3.0253769999999998,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Liszt - Hungarian Rhapsody No. 4 in E Flat, S. 244-jJ-QH7OoIHM.mp4?raw=true"
+        }
+    ],
+    "total_size": 104.11182000000001
 }
