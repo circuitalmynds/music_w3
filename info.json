@@ -142,6 +142,13 @@
             "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Franz Schubert - Fantasia for piano, 4 hands in F minor, D. 940 [uzjYQuDPi9Q].mp4?raw=true"
         },
         {
+            "id": "Yv4W65bM-KE",
+            "name": "Soon [Yv4W65bM-KE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/w3/videos/Soon [Yv4W65bM-KE].mp4",
+            "size": 8.23753,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Soon [Yv4W65bM-KE].mp4?raw=true"
+        },
+        {
             "id": "s25z5N8un3Y",
             "name": "Burned In Heaven [s25z5N8un3Y].mp4",
             "path": "/home/alanmatzumiya/Videos/container/w3/videos/Burned In Heaven [s25z5N8un3Y].mp4",
@@ -408,6 +415,13 @@
             "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Liszt - Concert Paraphrase on Rigoletto, S. 434 (After Verdi Opera)-3d6Wi_7-v0o.mp4?raw=true"
         },
         {
+            "id": "FbjxquKXEJo",
+            "name": "Chiquinha Gonzaga - Corta-jaca (1908-1912) [FbjxquKXEJo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/w3/videos/Chiquinha Gonzaga - Corta-jaca (1908-1912) [FbjxquKXEJo].mp4",
+            "size": 2.7279549999999997,
+            "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Chiquinha Gonzaga - Corta-jaca (1908-1912) [FbjxquKXEJo].mp4?raw=true"
+        },
+        {
             "id": "p-m35l5Vtxs",
             "name": "08 - Anri - Kanashimi Ha Mado No Mukou-p-m35l5Vtxs.mp4",
             "path": "/home/alanmatzumiya/Videos/container/w3/videos/08 - Anri - Kanashimi Ha Mado No Mukou-p-m35l5Vtxs.mp4",
@@ -443,5 +457,5 @@
             "url": "https://github.com/circuitalmynds/music_w3/blob/main/videos/Le Zephyr, Nocturne [1ciAmuVc2fw].mp4?raw=true"
         }
     ],
-    "total_size": 931.4075679999999
+    "total_size": 942.3730529999999
 }
